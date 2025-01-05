@@ -37,7 +37,9 @@ public class Libro {
         return "Título: " + titulo + "\n" +
                 "Autores: " + String.join(", ", autores) + "\n" +
                 "Lenguajes: " + String.join(", ", lenguajes) + "\n" +
-                "Descargas: " + descargas;
+                "Descargas: " + descargas + "\n" +
+                "----------------------------------"+ "\n" +
+                "----------------------------------";
     }
 
     //Setters an getters
