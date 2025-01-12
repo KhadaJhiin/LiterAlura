@@ -16,8 +16,9 @@ para luego ser consulta de diferentes maneras de acuerdo a lo que necesites. Ya 
 - Búsqueda y almacenamiento de libros.
 - Visualización o consulta de libros guardados.
 - Visualización o consulta de autores almacenados.
-- Visualización o consulta de libros de acuerdo al idioma.
 - Visualización de autores vivos en un respectivo año.
+- Visualización o consulta de libros de acuerdo al idioma.
+
 
 ## Requisitos
 
@@ -48,6 +49,9 @@ Antes de instalar y ejecutar el proyecto, asegúrate de tener lo siguiente insta
 
    <img src="/images/opcion2.jpg" alt="Ejemplo usando la opcion 7" width="350">
 
+4. Al seleccionar la opción (3) se listarán los autores de los libros que has ingresado.
+
+   <img src="/images/opcion3.jpg" alt="Ejemplo usando la opcion 7" width="350">
 
 ## ✔️ Tecnologías utilizadas
 * Java <br><br>
